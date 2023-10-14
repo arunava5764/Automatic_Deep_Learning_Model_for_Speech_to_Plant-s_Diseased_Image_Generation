@@ -1,0 +1,1 @@
+# Automatic_Deep_Learning_Model_for_Speech_to_Plant-s_Diseased_Image_Generation
